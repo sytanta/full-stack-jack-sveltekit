@@ -7,7 +7,7 @@ SvelteKit demo with Supabase, Typescript, Prisma & PlanetScale. This is a ported
 - Clone the project
 
 ```sh
-git
+git clone https://github.com/sytanta/full-stack-jack-sveltekit
 ```
 
 - Install dependencies
